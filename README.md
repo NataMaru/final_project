@@ -190,6 +190,5 @@ project-name/
 │   └── Womens Clothing E-Commerce Reviews.csv   
 ├── notebooks/
 │   └── final_project.ipynb
-└── reports/
-    └── figures/                                  (збережені графіки, опціонально)
+
 ```
