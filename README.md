@@ -153,8 +153,8 @@
 ### Встановлення
 
 ```bash
-git clone <посилання-на-репозиторій>
-cd <назва-репозиторію>
+git clone https://github.com/NataMaru/final_project.git
+cd final_project
 pip install -r requirements.txt
 ```
 
@@ -183,12 +183,10 @@ jupyter notebook notebooks/final_project.ipynb
 ## Структура репозиторію
 
 ```
-project-name/
+final_project/
 ├── README.md
 ├── requirements.txt
-├── data/
-│   └── Womens Clothing E-Commerce Reviews.csv   
-├── notebooks/
-│   └── final_project.ipynb
+├── Womens Clothing E-Commerce Reviews.csv
+└── final_project.ipynb
 
 ```
