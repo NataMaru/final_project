@@ -160,7 +160,7 @@ pip install -r requirements.txt
 
 ### Дані
 
-Завантажте датасет з [Kaggle](https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews) і покладіть файл `Womens Clothing E-Commerce Reviews.csv` у папку `data/`.
+Завантажте датасет з [Kaggle](https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews) і покладіть файл `Womens Clothing E-Commerce Reviews.csv` у корінь репозиторію (поруч із `final_project.ipynb`).
 
 ### Запуск
 
