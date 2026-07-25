@@ -164,10 +164,10 @@ pip install -r requirements.txt
 
 ### Запуск
 
-Проєкт оформлено як єдиний Jupyter Notebook `notebooks/final_project.ipynb`, що містить усі етапи послідовно - від EDA до фінального аналізу помилок.
+Проєкт оформлено як єдиний Jupyter Notebook `final_project.ipynb`, що містить усі етапи послідовно - від EDA до фінального аналізу помилок.
 
 ```bash
-jupyter notebook notebooks/final_project.ipynb
+jupyter notebook final_project.ipynb
 ```
 
 **Примітка:** для навчання DistilBERT рекомендовано GPU (наприклад, безкоштовний T4 у Google Colab) - на CPU навчання значно довше.
