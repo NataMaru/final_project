@@ -160,14 +160,14 @@ pip install -r requirements.txt
 
 ### Дані
 
-Завантажте датасет з [Kaggle](https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews) і покладіть файл `Womens Clothing E-Commerce Reviews.csv` у корінь репозиторію (поруч із `final_project.ipynb`).
+Завантажте датасет з [Kaggle](https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews) і покладіть файл `Womens Clothing E-Commerce Reviews.csv` у корінь репозиторію (поруч із `review_based_recommendations.ipynb`).
 
 ### Запуск
 
-Проєкт оформлено як єдиний Jupyter Notebook `final_project.ipynb`, що містить усі етапи послідовно - від EDA до фінального аналізу помилок.
+Проєкт оформлено як єдиний Jupyter Notebook `review_based_recommendations.ipynb`, що містить усі етапи послідовно - від EDA до фінального аналізу помилок.
 
 ```bash
-jupyter notebook final_project.ipynb
+jupyter notebook review_based_recommendations.ipynb
 ```
 
 **Примітка:** для навчання DistilBERT рекомендовано GPU (наприклад, безкоштовний T4 у Google Colab) - на CPU навчання значно довше.
@@ -187,6 +187,6 @@ final_project/
 ├── README.md
 ├── requirements.txt
 ├── Womens Clothing E-Commerce Reviews.csv
-└── final_project.ipynb
+└── review_based_recommendations.ipynb
 
 ```
