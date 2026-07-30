@@ -153,8 +153,8 @@
 ### Встановлення
 
 ```bash
-git clone https://github.com/NataMaru/final_project.git
-cd final_project
+git clone [https://github.com/NataMaru/review-based-recommendations]
+cd review-based-recommendations
 pip install -r requirements.txt
 ```
 
